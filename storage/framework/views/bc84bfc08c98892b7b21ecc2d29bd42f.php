@@ -1,0 +1,1 @@
+<?php if($help): ?><p class="text-gray-500 text-sm mt-2"><?php echo e($help); ?></p><?php endif; ?><?php /**PATH C:\Users\Dev\Desktop\Project\cbo ingenzi\ingenzi\resources\views/vendor/splade/form/help.blade.php ENDPATH**/ ?>
